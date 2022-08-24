@@ -5,7 +5,11 @@ public class HelloWorld {
         for(int i = 1; i<11; i++)
         {
             System.out.println(i);
-            System.out.println("Yo!");
+        }
+        System.out.println("Jeg kan også telle til tyve: ");
+        for(int i=11; i<21; i++)
+        {
+            System.out.println(i);
         }
     }
 }
